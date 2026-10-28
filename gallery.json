@@ -201,7 +201,7 @@
       "display_name": "Tinker Bell",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": "anemone",
       "reference_url": "https://camellia-nomenclature.github.io/#Tinker%20Bell",
       "photos": [
         {
@@ -242,7 +242,8 @@
       "catalogue": true,
       "notes": "",
       "coverPhotoId": "94c7e09e-b73b-4eb9-8753-4c881b8a7b7b",
-      "addedAt": "2026-10-28T22:20:46Z"
+      "addedAt": "2026-10-28T22:20:46Z",
+      "registeredYear": 1958
     },
     {
       "id": "camellia-library-5365636368c5ab2d6e6f2d6b61",
