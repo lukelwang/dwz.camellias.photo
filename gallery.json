@@ -36,7 +36,6 @@
           "size": 1234814,
           "mime": "image/jpeg",
           "kind": "personal",
-          "frame": null,
           "imagePath": "photos/e76b115f-8d59-46ef-a1fe-3bc47dc2fc58/image.jpg",
           "thumbnailPath": "photos/e76b115f-8d59-46ef-a1fe-3bc47dc2fc58/thumbnail.jpg",
           "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/e76b115f-8d59-46ef-a1fe-3bc47dc2fc58/image.jpg",
@@ -54,7 +53,6 @@
           "size": 1373770,
           "mime": "image/jpeg",
           "kind": "personal",
-          "frame": null,
           "imagePath": "photos/4db9672d-ebb4-4ff4-9cef-cd6a562c29f5/image.jpg",
           "thumbnailPath": "photos/4db9672d-ebb4-4ff4-9cef-cd6a562c29f5/thumbnail.jpg",
           "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/4db9672d-ebb4-4ff4-9cef-cd6a562c29f5/image.jpg",
@@ -72,7 +70,6 @@
           "size": 1409141,
           "mime": "image/jpeg",
           "kind": "personal",
-          "frame": null,
           "imagePath": "photos/e6198284-5095-4554-a374-3b95ca39db87/image.jpg",
           "thumbnailPath": "photos/e6198284-5095-4554-a374-3b95ca39db87/thumbnail.jpg",
           "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/e6198284-5095-4554-a374-3b95ca39db87/image.jpg",
@@ -90,7 +87,6 @@
           "size": 1593351,
           "mime": "image/jpeg",
           "kind": "personal",
-          "frame": null,
           "imagePath": "photos/bd3afc93-3063-423b-bb1d-d0725d2e4444/image.jpg",
           "thumbnailPath": "photos/bd3afc93-3063-423b-bb1d-d0725d2e4444/thumbnail.jpg",
           "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/bd3afc93-3063-423b-bb1d-d0725d2e4444/image.jpg",
@@ -99,14 +95,63 @@
       ],
       "catalogue": true,
       "notes": "",
-      "frame": {
-        "style": "none",
-        "color": "#d6c29b",
-        "width": 5,
-        "radius": 12,
-        "padding": 8
-      },
       "coverPhotoId": "e76b115f-8d59-46ef-a1fe-3bc47dc2fc58"
+    },
+    {
+      "id": "camellia-library-54696e6b65722042656c6c",
+      "name": "Tinker Bell",
+      "species": "Japonica",
+      "chinese_name": [
+        "小铃铛",
+        "小彩球"
+      ],
+      "japanese_name": [],
+      "size": "Small",
+      "description": "White striped Pink and Rose Red. Small, anemone form. Vigorous, upright growth. E-M. (For another form of this cultivar see 'Jingle Bells'). (U.S. 1958 - Nuccio's).",
+      "display_name": "Tinker Bell",
+      "summary_zh": "",
+      "color": "",
+      "form": "",
+      "reference_url": "https://camellia-nomenclature.github.io/#Tinker%20Bell",
+      "photos": [
+        {
+          "id": "94c7e09e-b73b-4eb9-8753-4c881b8a7b7b",
+          "filename": "IMG_1814.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-27T11:06",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 940493,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/94c7e09e-b73b-4eb9-8753-4c881b8a7b7b/image.jpg",
+          "thumbnailPath": "photos/94c7e09e-b73b-4eb9-8753-4c881b8a7b7b/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/94c7e09e-b73b-4eb9-8753-4c881b8a7b7b/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/94c7e09e-b73b-4eb9-8753-4c881b8a7b7b/thumbnail.jpg"
+        },
+        {
+          "id": "6be305e3-e652-4c43-8528-86f43e462c3b",
+          "filename": "IMG_1815.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-27T11:06",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1020237,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/6be305e3-e652-4c43-8528-86f43e462c3b/image.jpg",
+          "thumbnailPath": "photos/6be305e3-e652-4c43-8528-86f43e462c3b/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/6be305e3-e652-4c43-8528-86f43e462c3b/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/6be305e3-e652-4c43-8528-86f43e462c3b/thumbnail.jpg"
+        }
+      ],
+      "catalogue": true,
+      "notes": "",
+      "coverPhotoId": "94c7e09e-b73b-4eb9-8753-4c881b8a7b7b"
     }
   ]
 }
