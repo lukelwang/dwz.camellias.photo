@@ -792,6 +792,117 @@
       "addedAt": "2026-10-28T23:00:50.972Z",
       "notes": "",
       "coverPhotoId": "e660091b-952a-4636-b79b-f869525bca08"
+    },
+    {
+      "id": "camellia-library-4b616d6f2d486f6e2d416d69",
+      "name": "Kamo-Hon-Ami",
+      "species": "Japonica",
+      "registeredYear": null,
+      "chinese_name": [
+        "加茂本阿弥"
+      ],
+      "japanese_name": [
+        "加茂本阿弥",
+        "かもほんなみ"
+      ],
+      "size": "Large",
+      "description": "('Hon-Ami', 'Sotan'). White. Large, single. E-M. (Similar to 'Amabilis'). (Japan 1935 - Chugai).",
+      "display_name": "Kamo-Hon-Ami",
+      "summary_zh": "",
+      "color": "",
+      "form": "",
+      "reference_url": "https://camellia-nomenclature.github.io/#Kamo-Hon-Ami",
+      "photos": [
+        {
+          "id": "261a539d-330a-445c-a138-9dd4ee9e2714",
+          "filename": "IMG_1541.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-16T18:29",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1088549,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/261a539d-330a-445c-a138-9dd4ee9e2714/image.jpg",
+          "thumbnailPath": "photos/261a539d-330a-445c-a138-9dd4ee9e2714/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/261a539d-330a-445c-a138-9dd4ee9e2714/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/261a539d-330a-445c-a138-9dd4ee9e2714/thumbnail.jpg"
+        },
+        {
+          "id": "1596053d-ccb1-4cf7-96a0-7ce0e3714411",
+          "filename": "IMG_1540.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-16T18:29",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1128544,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/1596053d-ccb1-4cf7-96a0-7ce0e3714411/image.jpg",
+          "thumbnailPath": "photos/1596053d-ccb1-4cf7-96a0-7ce0e3714411/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/1596053d-ccb1-4cf7-96a0-7ce0e3714411/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/1596053d-ccb1-4cf7-96a0-7ce0e3714411/thumbnail.jpg"
+        },
+        {
+          "id": "ef8fa444-7a98-4436-865b-7afd664c60a8",
+          "filename": "IMG_1539.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-16T18:29",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1170110,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/ef8fa444-7a98-4436-865b-7afd664c60a8/image.jpg",
+          "thumbnailPath": "photos/ef8fa444-7a98-4436-865b-7afd664c60a8/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/ef8fa444-7a98-4436-865b-7afd664c60a8/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/ef8fa444-7a98-4436-865b-7afd664c60a8/thumbnail.jpg"
+        },
+        {
+          "id": "bda427ac-adfc-40d5-80c4-b6de3d89d446",
+          "filename": "IMG_1538.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-16T18:29",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1116821,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/bda427ac-adfc-40d5-80c4-b6de3d89d446/image.jpg",
+          "thumbnailPath": "photos/bda427ac-adfc-40d5-80c4-b6de3d89d446/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/bda427ac-adfc-40d5-80c4-b6de3d89d446/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/bda427ac-adfc-40d5-80c4-b6de3d89d446/thumbnail.jpg"
+        },
+        {
+          "id": "72c6edcd-16e3-42f1-aa6a-1f4ca0c20048",
+          "filename": "IMG_1537.jpeg",
+          "caption": "",
+          "takenAt": "2026-10-16T18:29",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1057554,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/72c6edcd-16e3-42f1-aa6a-1f4ca0c20048/image.jpg",
+          "thumbnailPath": "photos/72c6edcd-16e3-42f1-aa6a-1f4ca0c20048/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/72c6edcd-16e3-42f1-aa6a-1f4ca0c20048/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/72c6edcd-16e3-42f1-aa6a-1f4ca0c20048/thumbnail.jpg"
+        }
+      ],
+      "catalogue": true,
+      "addedAt": "2026-10-28T23:01:55.067Z",
+      "notes": "",
+      "coverPhotoId": "261a539d-330a-445c-a138-9dd4ee9e2714"
     }
   ]
 }
