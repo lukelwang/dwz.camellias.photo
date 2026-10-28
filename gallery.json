@@ -258,7 +258,7 @@
       "display_name": "Secchū-no-ka",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": "semi",
       "reference_url": "https://camellia-nomenclature.github.io/#Secch%C5%AB-no-ka",
       "photos": [
         {
@@ -333,7 +333,8 @@
       "catalogue": true,
       "notes": "",
       "coverPhotoId": "e76b115f-8d59-46ef-a1fe-3bc47dc2fc58",
-      "addedAt": "2026-10-28T17:42:54Z"
+      "addedAt": "2026-10-28T17:42:54Z",
+      "registeredYear": 2011
     }
   ]
 }
