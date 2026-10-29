@@ -643,7 +643,7 @@
       "id": "camellia-library-5363656e7465642047656d",
       "name": "Scented Gem",
       "species": "NRH",
-      "registeredYear": null,
+      "registeredYear": 1983,
       "chinese_name": [
         "香格格",
         "珍品"
@@ -654,7 +654,7 @@
       "display_name": "Scented Gem",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": "anemone",
       "reference_url": "https://camellia-nomenclature.github.io/#Scented%20Gem",
       "photos": [
         {
