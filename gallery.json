@@ -2548,6 +2548,117 @@
       "addedAt": "2026-10-29T00:39:44.835Z",
       "notes": "",
       "coverPhotoId": "e7de1e68-14a6-47a1-9dee-47c11e1491b1"
+    },
+    {
+      "id": "camellia-library-5368756368756b61",
+      "name": "Shuchuka",
+      "species": "Japonica",
+      "registeredYear": null,
+      "chinese_name": [
+        "酒中花"
+      ],
+      "japanese_name": [
+        "酒中花",
+        "しゅちゅうか"
+      ],
+      "size": "Miniature to small",
+      "description": "White with narrow picotee edge of Red. Miniature to small, semidouble to peony form. L. (Japan 1879 - Chin-Ka-Shu).",
+      "display_name": "Shuchuka",
+      "summary_zh": "",
+      "color": "",
+      "form": "",
+      "reference_url": "https://camellia-nomenclature.github.io/#Shuchuka",
+      "photos": [
+        {
+          "id": "065063a0-3f12-4a77-b285-b6da6bfb5074",
+          "filename": "IMG_4917.jpeg",
+          "caption": "",
+          "takenAt": "2026-04-19T19:37",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1260319,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/065063a0-3f12-4a77-b285-b6da6bfb5074/image.jpg",
+          "thumbnailPath": "photos/065063a0-3f12-4a77-b285-b6da6bfb5074/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/065063a0-3f12-4a77-b285-b6da6bfb5074/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/065063a0-3f12-4a77-b285-b6da6bfb5074/thumbnail.jpg"
+        },
+        {
+          "id": "45df8ddc-fb57-48a6-9384-d569c7843a5f",
+          "filename": "IMG_4916.jpeg",
+          "caption": "",
+          "takenAt": "2026-04-19T19:37",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1253806,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/45df8ddc-fb57-48a6-9384-d569c7843a5f/image.jpg",
+          "thumbnailPath": "photos/45df8ddc-fb57-48a6-9384-d569c7843a5f/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/45df8ddc-fb57-48a6-9384-d569c7843a5f/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/45df8ddc-fb57-48a6-9384-d569c7843a5f/thumbnail.jpg"
+        },
+        {
+          "id": "2361ed82-8e7f-495f-9b37-2a32fbed7792",
+          "filename": "IMG_4915.jpeg",
+          "caption": "",
+          "takenAt": "2026-04-19T19:37",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1221102,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/2361ed82-8e7f-495f-9b37-2a32fbed7792/image.jpg",
+          "thumbnailPath": "photos/2361ed82-8e7f-495f-9b37-2a32fbed7792/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/2361ed82-8e7f-495f-9b37-2a32fbed7792/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/2361ed82-8e7f-495f-9b37-2a32fbed7792/thumbnail.jpg"
+        },
+        {
+          "id": "e1a94043-6c5d-428f-bcdd-9fa1cef32c47",
+          "filename": "IMG_5013.jpeg",
+          "caption": "",
+          "takenAt": "2026-04-25T10:20",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1076900,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/e1a94043-6c5d-428f-bcdd-9fa1cef32c47/image.jpg",
+          "thumbnailPath": "photos/e1a94043-6c5d-428f-bcdd-9fa1cef32c47/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/e1a94043-6c5d-428f-bcdd-9fa1cef32c47/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/e1a94043-6c5d-428f-bcdd-9fa1cef32c47/thumbnail.jpg"
+        },
+        {
+          "id": "48242d76-22dd-4057-ae24-b74ce84070d5",
+          "filename": "IMG_5012.jpeg",
+          "caption": "",
+          "takenAt": "2026-04-25T10:20",
+          "dateSource": "exif",
+          "dateOffset": "-07:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1079144,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/48242d76-22dd-4057-ae24-b74ce84070d5/image.jpg",
+          "thumbnailPath": "photos/48242d76-22dd-4057-ae24-b74ce84070d5/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/48242d76-22dd-4057-ae24-b74ce84070d5/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/48242d76-22dd-4057-ae24-b74ce84070d5/thumbnail.jpg"
+        }
+      ],
+      "catalogue": true,
+      "addedAt": "2026-10-29T17:04:38.475Z",
+      "notes": "",
+      "coverPhotoId": "065063a0-3f12-4a77-b285-b6da6bfb5074"
     }
   ]
 }
