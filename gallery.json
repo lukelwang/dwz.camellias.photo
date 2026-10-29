@@ -481,7 +481,7 @@
       "id": "camellia-library-467562756b692d736869726174616d61",
       "name": "Fubuki-shiratama",
       "species": "Japonica",
-      "registeredYear": null,
+      "registeredYear": 1975,
       "chinese_name": [
         "吹雪白玉"
       ],
@@ -494,7 +494,7 @@
       "display_name": "Fubuki-shiratama",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": "single",
       "reference_url": "https://camellia-nomenclature.github.io/#Fubuki-shiratama",
       "photos": [
         {
