@@ -122,7 +122,7 @@
       "id": "camellia-library-5377656574696520506965",
       "name": "Sweetie Pie",
       "species": "Japonica",
-      "registeredYear": null,
+      "registeredYear": 1997,
       "chinese_name": [
         "甜心派"
       ],
@@ -132,7 +132,9 @@
       "display_name": "Sweetie Pie",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": [
+        "semi"
+      ],
       "reference_url": "https://camellia-nomenclature.github.io/#Sweetie%20Pie",
       "photos": [
         {
