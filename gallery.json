@@ -14,7 +14,7 @@
       "id": "camellia-library-5365636368c5ab2d6e6f2d6b61",
       "name": "Secchū-no-ka",
       "species": "NRH",
-      "registeredYear": null,
+      "registeredYear": 2008,
       "chinese_name": [
         "雪中花"
       ],
@@ -24,7 +24,9 @@
       "display_name": "Secchū-no-ka",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": [
+        "semi"
+      ],
       "reference_url": "https://camellia-nomenclature.github.io/#Secch%C5%AB-no-ka",
       "photos": [
         {
