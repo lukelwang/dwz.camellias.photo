@@ -3451,7 +3451,7 @@
       "id": "camellia-library-447261676f6e204669726562616c6c",
       "name": "Dragon Fireball",
       "species": "NRH",
-      "registeredYear": null,
+      "registeredYear": 2008,
       "chinese_name": [
         "龙火珠"
       ],
@@ -3461,7 +3461,9 @@
       "display_name": "Dragon Fireball",
       "summary_zh": "",
       "color": "",
-      "form": "",
+      "form": [
+        "anemone"
+      ],
       "reference_url": "https://camellia-nomenclature.github.io/#Dragon%20Fireball",
       "photos": [
         {
