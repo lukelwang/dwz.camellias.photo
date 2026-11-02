@@ -3607,6 +3607,23 @@
       "reference_url": "https://camellia-nomenclature.github.io/#Baby%20Sis%20Blush",
       "photos": [
         {
+          "id": "2a7102f5-13f3-4333-95b4-f9f0651eef91",
+          "filename": "IMG_1952.jpeg",
+          "caption": "",
+          "takenAt": "2026-11-01T16:48",
+          "dateSource": "exif",
+          "dateOffset": "-08:00",
+          "width": 1920,
+          "height": 2560,
+          "size": 1103613,
+          "mime": "image/jpeg",
+          "kind": "personal",
+          "imagePath": "photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/image.jpg",
+          "thumbnailPath": "photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/thumbnail.jpg",
+          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/image.jpg",
+          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/thumbnail.jpg"
+        },
+        {
           "id": "49140b46-fc1b-4340-b38b-636465c2649f",
           "filename": "IMG_1955.jpeg",
           "caption": "",
@@ -3673,29 +3690,12 @@
           "thumbnailPath": "photos/bbc48003-fc33-4f05-803c-479d44d91c60/thumbnail.jpg",
           "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/bbc48003-fc33-4f05-803c-479d44d91c60/image.jpg",
           "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/bbc48003-fc33-4f05-803c-479d44d91c60/thumbnail.jpg"
-        },
-        {
-          "id": "2a7102f5-13f3-4333-95b4-f9f0651eef91",
-          "filename": "IMG_1952.jpeg",
-          "caption": "",
-          "takenAt": "2026-11-01T16:48",
-          "dateSource": "exif",
-          "dateOffset": "-08:00",
-          "width": 1920,
-          "height": 2560,
-          "size": 1103613,
-          "mime": "image/jpeg",
-          "kind": "personal",
-          "imagePath": "photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/image.jpg",
-          "thumbnailPath": "photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/thumbnail.jpg",
-          "src": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/image.jpg",
-          "thumbnailSrc": "https://raw.githubusercontent.com/lukelwang/dwz.camellias.photo/main/photos/2a7102f5-13f3-4333-95b4-f9f0651eef91/thumbnail.jpg"
         }
       ],
       "catalogue": true,
       "addedAt": "2026-11-02T06:54:05.519Z",
       "notes": "",
-      "coverPhotoId": "49140b46-fc1b-4340-b38b-636465c2649f"
+      "coverPhotoId": "2a7102f5-13f3-4333-95b4-f9f0651eef91"
     }
   ]
 }
